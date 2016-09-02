@@ -1,0 +1,7 @@
+//Oscar Wong Calculate Library 8/31/26
+//square will square an integer that is given
+public class Calculate {
+	public static int square(int number){
+		return(number * number);
+	}
+}

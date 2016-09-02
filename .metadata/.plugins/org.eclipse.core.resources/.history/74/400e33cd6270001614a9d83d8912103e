@@ -1,0 +1,8 @@
+//Oscar Wong 8/31/16
+public class DoMath {
+
+	public static void main(String[] args) {
+		Calculate.square(5);
+	}
+}
+
